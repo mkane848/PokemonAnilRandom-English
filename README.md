@@ -5,23 +5,23 @@ This mod pack was created by @joelkm (https://twitter.com/JoelMustDeploy), this 
 All restrictions from the original randomizer remain as of now.
 
 Randomizor Options:
-✔️ Pokemon skills
-✔️ Pokemon moveset (both egg and level)
-✔️ Wild encounters
-✔️ Drops de pokemon salvajes (Los que tienen) // Wild Pokemon Drops (The Haves) [[ need better translation for this bullet point ]]
-✔️ Pokemon Trainers
-✔️ Pokemon Trainers' Combat Items
-✔️ Mega coaches [[ I'm out of the pokemon loop so I think this sounds right based on what I know of mega evolution ]]
-✔️ TMs
-✔️ Move Reminders
+-✔️ Pokemon skills
+-✔️ Pokemon moveset (both egg and level)
+-✔️ Wild encounters
+-✔️ Drops de pokemon salvajes (Los que tienen) // Wild Pokemon Drops (The Haves) [[ need better translation for this bullet point ]]
+-✔️ Pokemon Trainers
+-✔️ Pokemon Trainers' Combat Items
+-✔️ Mega coaches [[ I'm out of the pokemon loop so I think this sounds right based on what I know of mega evolution ]]
+-✔️ TMs
+-✔️ Move Reminders
 
-✖️ Starter Choice
-✖️ Raids
-✖️ Pokemon Mega Abilities
-✖️ World Items  // (Para no cargarme misiones de historia)
-✖️ Move Tutors
-✖️ Fossils
-✖️ Trading NPCs
+-✖️ Starter Choice
+-✖️ Raids
+-✖️ Pokemon Mega Abilities
+-✖️ World Items  // (Para no cargarme misiones de historia)
+-✖️ Move Tutors
+-✖️ Fossils
+-✖️ Trading NPCs
 
 Other details:
 - All trainers over lvl 36 have fully evolved pokemon
