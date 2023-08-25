@@ -5,23 +5,23 @@ This mod pack was created by @joelkm (https://twitter.com/JoelMustDeploy), this 
 All restrictions from the original randomizer remain as of now.
 
 Randomizor Options:
--✔️ Pokemon skills
--✔️ Pokemon moveset (both egg and level)
--✔️ Wild encounters
--✔️ Drops de pokemon salvajes (Los que tienen) // Wild Pokemon Drops (The Haves) [[ need better translation for this bullet point ]]
--✔️ Pokemon Trainers
--✔️ Pokemon Trainers' Combat Items
--✔️ Mega coaches [[ I'm out of the pokemon loop so I think this sounds right based on what I know of mega evolution ]]
--✔️ TMs
--✔️ Move Reminders
+- ✔️ Pokemon skills
+- ✔️ Pokemon moveset (both egg and level)
+- ✔️ Wild encounters
+- ✔️ Drops de pokemon salvajes (Los que tienen) // Wild Pokemon Drops (The Haves) [[ need better translation for this bullet point ]]
+- ✔️ Pokemon Trainers
+- ✔️ Pokemon Trainers' Combat Items
+- ✔️ Mega coaches [[ I'm out of the pokemon loop so I think this sounds right based on what I know of mega evolution ]]
+- ✔️ TMs
+- ✔️ Move Reminders
 
--✖️ Starter Choice
--✖️ Raids
--✖️ Pokemon Mega Abilities
--✖️ World Items  // (Para no cargarme misiones de historia)
--✖️ Move Tutors
--✖️ Fossils
--✖️ Trading NPCs
+- ✖️ Starter Choice
+- ✖️ Raids
+- ✖️ Pokemon Mega Abilities
+- ✖️ World Items  // (Para no cargarme misiones de historia)
+- ✖️ Move Tutors
+- ✖️ Fossils
+- ✖️ Trading NPCs
 
 Other details:
 - All trainers over lvl 36 have fully evolved pokemon
@@ -30,9 +30,9 @@ Other details:
     - Greatball 800
     - Ultraball 1500
     - All Others 2500
--Superguard/Wonderguard removed
--Going to start with the gen9 moves removed unless it's more work to remove it, add it in if requested
--TM108 is empty (It's not intentional, the original TM of Metronome does weird things and stays that way). [[ need better translation ]]
+- Superguard/Wonderguard removed
+- Going to start with the gen9 moves removed unless it's more work to remove it, add it in if requested
+- TM108 is empty (It's not intentional, the original TM of Metronome does weird things and stays that way). [[ need better translation ]]
 
 
 ## Installation and Runtime Instructions
@@ -40,7 +40,7 @@ Other details:
 ### Prerequisites
 - Windows
 - [Node.js](https://nodejs.org/en/download)
-- RPGMakerXP
+- [RPGMakerXP](https://store.steampowered.com/app/235900/RPG_Maker_XP/)
 - An unmodified version of Pokemon Anil
 
 #### Installing NPM
