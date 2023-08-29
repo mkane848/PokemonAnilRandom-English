@@ -1,5 +1,7 @@
 # Pokemon Anil Random - English
-This mod pack was created by @joelkm (https://twitter.com/JoelMustDeploy), this is just an English adaptation and instruction set made for a discord community. Please see https://github.com/joelkm/PokemonAnilRandom for the original work.
+This mod pack was created by [joelkm](https://github.com/joelkm) ([Twitter account](https://twitter.com/JoelMustDeploy)), this is just an English adaptation and instruction set made for a discord community. Please see https://github.com/joelkm/PokemonAnilRandom for the original work.
+
+Thank you to Fran and the CLA Community for additonal translation work
 
 ## 
 All restrictions from the original randomizer remain as of now.
@@ -8,17 +10,17 @@ Randomizor Options:
 - ✔️ Pokemon skills
 - ✔️ Pokemon moveset (both egg and level)
 - ✔️ Wild encounters
-- ✔️ Drops de pokemon salvajes (Los que tienen) // Wild Pokemon Drops (The Haves) [[ need better translation for this bullet point ]]
+- ✔️ Wild Pokemon Held Items
 - ✔️ Pokemon Trainers
 - ✔️ Pokemon Trainers' Combat Items
-- ✔️ Mega coaches [[ I'm out of the pokemon loop so I think this sounds right based on what I know of mega evolution ]]
+- ✔️ Trainers' Megas
 - ✔️ TMs
 - ✔️ Move Reminders
 
 - ✖️ Starter Choice
 - ✖️ Raids
 - ✖️ Pokemon Mega Abilities
-- ✖️ World Items  // (Para no cargarme misiones de historia)
+- ✖️ Overworld Items (To not mess up main quest line)
 - ✖️ Move Tutors
 - ✖️ Fossils
 - ✖️ Trading NPCs
@@ -32,8 +34,7 @@ Other details:
     - All Others 2500
 - Superguard/Wonderguard removed
 - Going to start with the gen9 moves removed unless it's more work to remove it, add it in if requested
-- TM108 is empty (It's not intentional, the original TM of Metronome does weird things and stays that way). [[ need better translation ]]
-
+- TM108 is empty (Issue with TM108 - Metronome itself)
 
 ## Installation and Runtime Instructions
 
