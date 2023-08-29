@@ -18,11 +18,6 @@ async function randomize() {
 
 
     async function processPokemon() {
-        function getLearningLevels(values) {
-            return values.filter(function (element) {
-                if (!isNaN(parseInt(element))) return element;
-            });
-        }
 
         return await new Promise(function (resolve) {
             fs.readFile(filePaths.pokemon, 'utf-8', async function (err, data) {
@@ -33,24 +28,13 @@ async function randomize() {
                     if (splitedLineByEqual[1]) {
                         const values = splitedLineByEqual[1].split(',');
                         switch (property) {
-                            case 'Moves':
-                                const learningLevels = getLearningLevels(values);
-
-                                lines[index] = property + '=' + await buildLvlMoveSet(learningLevels);
-                                break;
-                            case 'EggMoves':
-                                let eggMoves = values;
-                                lines[index] = property + '=' + await buildEggMoveSet(eggMoves);
-                                break;
-                            case 'Abilities':
-                            case 'HiddenAbility':
-                                lines[index] = property + '=' + await buildAbilitySet(values);
-                                break;
-                            case 'WildItemCommon':
-                            case 'WildItemUncommon':
-                            case 'WildItemRare':
-                                lines[index] = property + '=' + await getRandomItem(filePaths.items);
-                                break;
+                            // case 'Moves':
+                            // case 'EggMoves':
+                            // case 'Abilities':
+                            // case 'HiddenAbility':
+                            // case 'WildItemCommon':
+                            // case 'WildItemUncommon':
+                            // case 'WildItemRare':
                             case 'InternalName':
                                 pokemonCollection.push(values[0].split('\r')[0]); // Will come handy when randomizing TMs
                                 break;
