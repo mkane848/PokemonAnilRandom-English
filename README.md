@@ -7,24 +7,24 @@ Thank you to Fran and the CLA Community for additonal translation work
 All restrictions from the original randomizer remain as of now.
 
 Randomizor Options:
-- ✔️ Wild encounters
-- ✔️ Pokemon Trainers
-- ✔️ Pokemon Trainers' Combat Items
-- ✔️ Trainers' Megas
-- ✔️ TMs
-- ✔️ Move Reminders
-- ✖️ Starter Choice
-- ✖️ Pokemon Moves
-- ✖️ Pokemon Egg Moves
-- ✖️ PokemonAbilities
-- ✖️ Pokemon Hidden Ability
-- ✖️ Wild Pokemon Held Items
-- ✖️ Raids
-- ✖️ Pokemon Mega Abilities
-- ✖️ Overworld Items (To not mess up main quest line)
-- ✖️ Move Tutors
-- ✖️ Fossils
-- ✖️ Trading NPCs
+- ✅ Wild encounters
+- ✅ Pokemon Trainers
+- ✅ Pokemon Trainers' Combat Items
+- ✅ Trainers' Megas
+- ✅ TMs
+- ✅ Move Reminders
+- ❌ Starter Choice
+- ❌ Pokemon Moves
+- ❌ Pokemon Egg Moves
+- ❌ Pokemon Abilities
+- ❌ Pokemon Hidden Ability
+- ❌ Wild Pokemon Held Items
+- ❌ Raids
+- ❌ Pokemon Mega Abilities
+- ❌ Overworld Items (To not mess up main quest line)
+- ❌ Move Tutors
+- ❌ Fossils
+- ❌ Trading NPCs
 
 Other details:
 - All trainers over lvl 36 have fully evolved pokemon
