@@ -1,5 +1,5 @@
 # Pokemon Anil Random - English
-This mod pack was created by [joelkm](https://github.com/joelkm) ([Twitter account](https://twitter.com/JoelMustDeploy)), this is just an English adaptation and instruction set made for a discord community. Please see https://github.com/joelkm/PokemonAnilRandom for the original work.
+This mod pack was originally created by [joelkm](https://github.com/joelkm) ([Twitter account](https://twitter.com/JoelMustDeploy)). This is an English fork with some additional changes plus updated instructions for the CLA Discord community.
 
 Thank you to Fran and the CLA Community for additonal translation work
 
