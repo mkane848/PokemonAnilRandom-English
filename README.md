@@ -7,17 +7,18 @@ Thank you to Fran and the CLA Community for additonal translation work
 All restrictions from the original randomizer remain as of now.
 
 Randomizor Options:
-- ✔️ Pokemon skills
-- ✔️ Pokemon moveset (both egg and level)
 - ✔️ Wild encounters
-- ✔️ Wild Pokemon Held Items
 - ✔️ Pokemon Trainers
 - ✔️ Pokemon Trainers' Combat Items
 - ✔️ Trainers' Megas
 - ✔️ TMs
 - ✔️ Move Reminders
-
 - ✖️ Starter Choice
+- ✖️ Pokemon Moves
+- ✖️ Pokemon Egg Moves
+- ✖️ PokemonAbilities
+- ✖️ Pokemon Hidden Ability
+- ✖️ Wild Pokemon Held Items
 - ✖️ Raids
 - ✖️ Pokemon Mega Abilities
 - ✖️ Overworld Items (To not mess up main quest line)
