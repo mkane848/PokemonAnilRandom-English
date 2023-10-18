@@ -1,4 +1,4 @@
-# Pokemon Anil Random - English
+# Pokémon Añil Randomizer - English
 This mod pack was originally created by [joelkm](https://github.com/joelkm) ([Twitter account](https://twitter.com/JoelMustDeploy)). This is an English fork with some additional changes plus updated instructions for the CLA Discord community.
 
 Thank you to Fran, Motch, duckingcreepers and more from the CLA Community for additonal translation, design, and programming work!
