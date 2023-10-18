@@ -1,7 +1,7 @@
 # Pokemon Anil Random - English
 This mod pack was originally created by [joelkm](https://github.com/joelkm) ([Twitter account](https://twitter.com/JoelMustDeploy)). This is an English fork with some additional changes plus updated instructions for the CLA Discord community.
 
-Thank you to Fran and the CLA Community for additonal translation work
+Thank you to Fran, Motch, duckingcreepers and more from the CLA Community for additonal translation, design, and programming work!
 
 ## 
 All restrictions from the original randomizer remain as of now.
@@ -73,10 +73,4 @@ A new black window running the game will open, you'll see the name of the window
 The name will change until the process is finished. Once completed, the game will open automatically with everything randomized.
 
 Open "Game.exe" and enjoy!
-
-## Goals
-- Remove RPGMaker XP Requirement
-  - Incorperate Randomizer as another Game Mode at Classic/Complete/Radical selection or some other easily accessible way
-- Improve translations
-- Add QoL features
 
